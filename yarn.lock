@@ -4678,7 +4678,7 @@ __metadata:
     jest: ^29.4.0
     jest-html-reporter: 3.7.1
     jest-junit: 16.0.0
-    jquery: 3.6.4
+    jquery: 3.7.1
     lint-staged: 13.2.2
     lodash: 4.17.21
     mini-css-extract-plugin: 2.7.5
@@ -10327,10 +10327,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jquery@npm:3.6.4":
-  version: 3.6.4
-  resolution: "jquery@npm:3.6.4"
-  checksum: 8354f7bd0a0424aa714ee1b6b1ef74b410f834eb5c8501682289b358bc151f11677f11188b544f3bb49309d6ec4d15d1a5de175661250c206b06185a252f706f
+"jquery@npm:3.7.1":
+  version: 3.7.1
+  resolution: "jquery@npm:3.7.1"
+  checksum: 4370b8139d6ae82867eb6f7f21d1edccf1d1bdf41c0840920ea80d366c2cd5dbe1ceebb110ee9772aa839b04400faa1572c5c560b507c688ed7b61cea26c0e27
   languageName: node
   linkType: hard
 
